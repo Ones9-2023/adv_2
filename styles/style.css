@@ -1435,7 +1435,7 @@ picture {
 }
 
 .door {
-    background-image: url(../styles/door1.png);
+    background-image: url(./styles/door1.png);
     background-repeat: no-repeat;
     transform: rotateY(0);
     display: inline-block;
@@ -1446,11 +1446,11 @@ picture {
 }
 
 #door__2 {
-    background-image: url("../styles/door2.png")
+    background-image: url(./styles/door2.png)
 }
 
 #door__3 {
-    background-image: url("../styles/door3.png")
+    background-image: url(./styles/door3.png)
 }
 
 .door:hover {
